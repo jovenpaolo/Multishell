@@ -1,0 +1,6 @@
+Hello!
+To run this program,
+1) Open EAuFe.m
+2) Move address bar to *folder location*/Multishell
+3) At the left of the screen, right-click then "Add to Path>Selected Files and Folders"
+4) Run EAuFe.m
